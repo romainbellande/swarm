@@ -1,0 +1,24 @@
+// resources
+def tree = "tree" end
+def branch = "branch" end
+def log_ = "log" end
+def branch_predictor = "branch predictor" end
+def wooden_gear = "wooden gear" end
+def box = "box" end
+def harvester = "harvester" end
+def board = "board" end
+def sand = "sand" end
+def wavy_water = "wavy water" end
+def water = "water" end
+def cotton = "cotton" end
+def bit_0 = "bit (0)" end
+def bit_1 = "bit (1)" end
+def boulder = "boulder" end
+def flower = "flower" end
+def copper_ore = "copper ore" end
+def mountain = "mountain" end
+def lodetone = "lodestone" end
+def lambda = "lambda" end
+def latex = "LaTeX" end
+def pixel = "pixel" end
+def rock = "rock" end
